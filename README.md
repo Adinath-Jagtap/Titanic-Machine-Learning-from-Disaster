@@ -6,7 +6,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/adinathjagtap777/titanic-machine-learning-from-disaster)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 **Machine Learning solution for Kaggle's Titanic competition using Ensemble Gradient Boosted Trees**
 
